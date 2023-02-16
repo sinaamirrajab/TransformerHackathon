@@ -1,2 +1,2 @@
-# TransformerHackathon
-# Follow the jupyter notebook 
+
+# Follow the jupyter notebook for TransformerHackathon
